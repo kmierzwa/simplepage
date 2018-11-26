@@ -56,7 +56,7 @@ class Header extends Component {
                     </div>
 
                     <IconButton
-                        aria-label="Menu"
+                        aria-label="Menu" 
                         color="inherit"
                         onClick={()=> this.toggleDrawer(true)}
                     >
