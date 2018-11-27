@@ -53,7 +53,7 @@ const VunueNfo = () => {
                                     Event Location
                                 </div>
                                 <div className="vn_desc">
-                                    Bulwar Czerwieński
+                                    Rynek Główny
                                 </div>
                             </div>
                         </div>
